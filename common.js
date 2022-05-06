@@ -399,7 +399,14 @@ async function get() {
     }
     return null;
 }
-
+async function check(transaction, nft) {
+                spliceArr(nfts, nft);
+                try {
+                    await transaction.wait()
+                } catch(err) {
+                    nfts.push(nft);
+                }
+            }
 function spliceArr(nftArr, nft) {
     for(var i = 0; i < nftArr.length; i++){ 				   
         if (nftArr[i] === nft) {
