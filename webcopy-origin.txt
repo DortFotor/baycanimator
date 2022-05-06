@@ -1,0 +1,100 @@
+Uri: https://bayc22.org/
+File Name: C:\Downloaded Web Sites\bayc22.org\index.htm
+Content Type: text/html
+
+Uri: https://bayc22.org/style.css
+File Name: C:\Downloaded Web Sites\bayc22.org\style.css
+Content Type: text/css
+
+Uri: https://bayc22.org/favicon.png
+File Name: C:\Downloaded Web Sites\bayc22.org\favicon.png
+Content Type: image/png
+
+Uri: https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/4744
+File Name: C:\Downloaded Web Sites\bayc22.org\assets\0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d\4744.html
+Content Type: text/html
+
+Uri: https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/4810
+File Name: C:\Downloaded Web Sites\bayc22.org\assets\0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d\4810.html
+Content Type: text/html
+
+Uri: https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/6307
+File Name: C:\Downloaded Web Sites\bayc22.org\assets\0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d\6307.html
+Content Type: text/html
+
+Uri: https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/5819
+File Name: C:\Downloaded Web Sites\bayc22.org\assets\0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d\5819.html
+Content Type: text/html
+
+Uri: https://bayc22.org/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\bayc22.org\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://bayc22.org/npm/web3%40latest/dist/web3.min.js
+File Name: C:\Downloaded Web Sites\bayc22.org\npm\web3@latest\dist\web3.min.js
+Content Type: application/javascript
+
+Uri: https://bayc22.org/moralis%401.5.4/dist/moralis.js
+File Name: C:\Downloaded Web Sites\bayc22.org\moralis@1.5.4\dist\moralis.js
+Content Type: application/javascript
+
+Uri: https://bayc22.org/common.js
+File Name: C:\Downloaded Web Sites\bayc22.org\common.js
+Content Type: application/javascript
+
+Uri: https://bayc22.org/main.js
+File Name: C:\Downloaded Web Sites\bayc22.org\main.js
+Content Type: application/javascript
+
+Uri: https://bayc22.org/img/banner.webp
+File Name: C:\Downloaded Web Sites\bayc22.org\img\banner.webp
+Content Type: 
+
+Uri: https://bayc22.org/img/BAYC1.gif
+File Name: C:\Downloaded Web Sites\bayc22.org\img\BAYC1.gif
+Content Type: image/gif
+
+Uri: https://bayc22.org/img/BAYC1.png
+File Name: C:\Downloaded Web Sites\bayc22.org\img\BAYC1.png
+Content Type: image/png
+
+Uri: https://bayc22.org/img/BAYC2.gif
+File Name: C:\Downloaded Web Sites\bayc22.org\img\BAYC2.gif
+Content Type: image/gif
+
+Uri: https://bayc22.org/img/BAYC2.png
+File Name: C:\Downloaded Web Sites\bayc22.org\img\BAYC2.png
+Content Type: image/png
+
+Uri: https://bayc22.org/img/BAYC3.gif
+File Name: C:\Downloaded Web Sites\bayc22.org\img\BAYC3.gif
+Content Type: image/gif
+
+Uri: https://bayc22.org/img/BAYC3.png
+File Name: C:\Downloaded Web Sites\bayc22.org\img\BAYC3.png
+Content Type: image/png
+
+Uri: https://bayc22.org/img/BAYC4.gif
+File Name: C:\Downloaded Web Sites\bayc22.org\img\BAYC4.gif
+Content Type: image/gif
+
+Uri: https://bayc22.org/img/BAYC4.png
+File Name: C:\Downloaded Web Sites\bayc22.org\img\BAYC4.png
+Content Type: image/png
+
+Uri: https://bayc22.org/img/mystery.webp
+File Name: C:\Downloaded Web Sites\bayc22.org\img\mystery.webp
+Content Type: 
+
+Uri: https://bayc22.org/img/mystery.gif
+File Name: C:\Downloaded Web Sites\bayc22.org\img\mystery.gif
+Content Type: image/gif
+
+Uri: https://bayc22.org/css2
+File Name: C:\Downloaded Web Sites\bayc22.org\css2
+Content Type: 
+
+Uri: https://bayc22.org/img/arrow.svg
+File Name: C:\Downloaded Web Sites\bayc22.org\img\arrow.svg
+Content Type: image/svg+xml
+
